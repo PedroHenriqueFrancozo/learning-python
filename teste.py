@@ -1,5 +1,3 @@
-numero = int(input('Digite um numero'))
+nome = input('Digita seu nome: ')
 
-numero_dividido = numero % 2 
-
-print(numero_dividido)3
+print(len(nome))
