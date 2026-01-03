@@ -11,8 +11,8 @@
 # Imutáveis: str, int, float, bool, tuple
 # Mutável: dict, list
 # pessoa = {
-#     'nome': 'Luiz Otávio',
-#     'sobrenome': 'Miranda',
+#     'nome': 'Pedro',
+#     'sobrenome': 'Françozo',
 #     'idade': 18,
 #     'altura': 1.8,
 #     'endereços': [
@@ -20,10 +20,11 @@
 #         {'rua': 'outra rua', 'número': 321},
 #     ]
 # }
-# pessoa = dict(nome='Luiz Otávio', sobrenome='Miranda')
+# pessoa = dict(nome='Pedro', sobrenome='Françozo')
+
 pessoa = {
-    'nome': 'Luiz Otávio',
-    'sobrenome': 'Miranda',
+    'nome': 'Pedro',
+    'sobrenome': 'Françozo',
     'idade': 18,
     'altura': 1.8,
     'endereços': [
@@ -48,8 +49,8 @@ pessoa = {}
 
 chave = 'nome'
 
-pessoa[chave] = 'Luiz Otávio'
-pessoa['sobrenome'] = 'Miranda'
+pessoa[chave] = 'Pedro'
+pessoa['sobrenome'] = 'Françozo'
 
 
 print(pessoa[chave])
@@ -81,8 +82,8 @@ else:
 # popitem - Apaga o último item adicionado
 # update - Atualiza um dicionário com outro
 pessoa = {
-    'nome': 'Luiz Otávio',
-    'sobrenome': 'Miranda',
+    'nome': 'Pedro',
+    'sobrenome': 'Françozo',
     'idade': 900,
 }
 
@@ -140,7 +141,7 @@ print(d2)
 # update - Atualiza um dicionário com outro
 p1 = {
     'nome': 'Luiz',
-    'sobrenome': 'Miranda',
+    'sobrenome': 'Françozo',
 }
 # print(p1['nome'])
 # print(p1.get('nome', 'Não existe'))
