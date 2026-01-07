@@ -169,5 +169,15 @@ while True:
         print(f'Temos {quantidade} unidades de {busca} em estoque.')
     else:
         print(f'Desculpe, a fruta "{busca}" não está no sistema.')
-    
-    
+
+# Desafio Exercício: Gestor de Inventário de Loja
+# Você deve criar um programa que gerencie o estoque de uma pequena loja de eletrônicos. O estoque será uma lista de dicionários.
+
+# Os Dados Iniciais:
+
+estoque = [
+    {'produto': 'Mouse', 'preco': 50.0, 'quantidade':10},
+    {'produto': 'Teclado', 'preco': 150.0, 'quantidade':5},
+    {'produto': 'Monitor', 'preco': 900.0, 'quantidade':2},
+]
+
