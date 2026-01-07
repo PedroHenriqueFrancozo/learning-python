@@ -5,7 +5,7 @@ Focus: Applying variables, basic math, and conditional logic.
 
 name = "Pedro"
 last_name = "Francozo"
-age = 23
+age = 20
 
 # Calculating the birth year dynamically
 current_year = 2025
