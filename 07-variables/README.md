@@ -1,6 +1,6 @@
 # Aula 07 - Variáveis (Variables) 📋
 
-Variáveis são nomes usados para salvar algo na memória do computador.
+Variáveis são nomes usados para salvar algo na memória do computador(como números, texto, listas).
 Variables are names used to save something in the computer's memory.
 
 ### :clipboard: O que aprendi:
