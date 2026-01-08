@@ -3,28 +3,24 @@ Topic: Detailed Conditional Flow
 Focus: Understanding how Python evaluates multiple conditions in a single block.
 """
 
-# if / elif      / else
-# se / se não se / se não
+condition1 = False
+condition2 = False
+condition3 = True
+condition4 = True
 
-condicao1 = True
-condicao2 = True
-condicao3 = True
-condicao4 = True
-
-if condicao1:
-    print('Código para condição 1')
-    print('Código para condição 1')
-elif condicao2:
-    print('Código para condição 2')
-elif condicao3:
-    print('Código para condição 3')
-elif condicao4:
-    print('Código para condição 4')
+if condition1:
+    print('Code for condition 1')
+elif condition2:
+    print('Code for condition 2')
+elif condition3:
+    print('Code for condition 3')
+elif condition4:
+    print('Code for condition 4')
 else:
-    print('Nenhuma condição foi satisfeita.')
+    print('No condition was satisfied.')
 
-# Este é um bloco INDEPENDENTE do bloco acima
+# This is an INDEPENDENT block from the one above
 if 10 == 10:
-    print('Outro if')
+    print('Another if')
 
-print('Fora do if')
+print('Outside the if')
