@@ -3,15 +3,15 @@ Topic: User Input and Type Conversion
 Focus: Capturing data from the terminal and converting it to numbers.
 """
 
-# A função input() sempre retorna uma string (str).
-# nome = input('Qual o seu nome? ')
-# print(f'O seu nome é {nome}')
+# The input() function always returns a string (str).
+# name = input('What is your name? ')
+# print(f'Your name is {name}')
 
-numero_1 = input('Digite um número: ')
-numero_2 = input('Digite outro número: ')
+number_1 = input('Enter a number: ')
+number_2 = input('Enter another number: ')
 
-# Coerção (conversão de tipo) é necessária para operações matemáticas
-int_numero_1 = int(numero_1)
-int_numero_2 = int(numero_2)
+# Coercion (type conversion) is necessary for mathematical operations
+int_number_1 = int(number_1)
+int_number_2 = int(number_2)
 
-print(f'A soma dos números é: {int_numero_1 + int_numero_2}')
+print(f'The sum of the numbers is: {int_number_1 + int_number_2}')
