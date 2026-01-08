@@ -22,7 +22,6 @@ In this class, I learned how to use the **VS Code Debugger** to visualize the Py
 | **Shift+F5** | Stop | Para a execução do programa imediatamente. |
 
 
-
 ---
 
 ### 💡 Insight:
