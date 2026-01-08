@@ -1,3 +1,8 @@
+"""
+Topic: Detailed Conditional Flow
+Focus: Understanding how Python evaluates multiple conditions in a single block.
+"""
+
 # if / elif      / else
 # se / se não se / se não
 
@@ -18,6 +23,7 @@ elif condicao4:
 else:
     print('Nenhuma condição foi satisfeita.')
 
+# Este é um bloco INDEPENDENTE do bloco acima
 if 10 == 10:
     print('Outro if')
 
