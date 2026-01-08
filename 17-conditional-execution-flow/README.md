@@ -20,7 +20,6 @@ In this class, I deepened my knowledge of how Python processes conditional block
 | **Linhas sem recuo** | Sempre são executadas, pois estão fora da árvore de decisão. |
 
 
-
 ---
 
 ### 💡 Insight:
