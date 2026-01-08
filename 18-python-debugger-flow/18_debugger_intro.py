@@ -1,3 +1,8 @@
+"""
+Topic: VS Code Debugger and Code Execution
+Focus: Watching how the Python interpreter reads each line using breakpoints.
+"""
+
 # O Debugger do VS Code e o interpretador do Python lendo os códigos
 
 condicao1 = False
