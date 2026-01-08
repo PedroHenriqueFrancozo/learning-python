@@ -1,18 +1,18 @@
 """
-Topic: Conditionals (if, elif, else)
+Topic: Conditional Flow (if, elif, else)
 Focus: Controlling the program flow based on user input.
 """
 
 # if / elif      / else
-# se / se não se / se não
-entrada = input('Você quer "entrar" ou "sair"? ')
+# if / else if   / else
+entry = input('Do you want to "enter" or "exit"? ')
 
-if entrada == 'entrar':
-    print('Você entrou no sistema')
+if entry == 'enter':
+    print('You have entered the system')
     print(12341234)
-elif entrada == 'sair':
-    print('Você saiu do sistema')
+elif entry == 'exit':
+    print('You have left the system')
 else:
-    print('Você não digitou nem entrar e nem sair.')
+    print('You did not type enter or exit.')
 
-print('FORA DOS BLOCOS')
+print('OUTSIDE THE BLOCKS')
