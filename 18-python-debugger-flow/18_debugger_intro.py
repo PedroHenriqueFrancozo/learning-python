@@ -3,26 +3,25 @@ Topic: VS Code Debugger and Code Execution
 Focus: Watching how the Python interpreter reads each line using breakpoints.
 """
 
-# O Debugger do VS Code e o interpretador do Python lendo os códigos
+# The VS Code Debugger and the Python interpreter reading the code
 
-condicao1 = False
-condicao2 = False
-condicao3 = True
-condicao4 = True
+condition1 = False
+condition2 = False
+condition3 = True
+condition4 = True
 
-if condicao1:
-    print('Código para condição 1')
-    print('Código para condição 1')
-elif condicao2:
-    print('Código para condição 2')
-elif condicao3:
-    print('Código para condição 3')
-elif condicao4:
-    print('Código para condição 4')
+if condition1:
+    print('Code for condition 1')
+elif condition2:
+    print('Code for condition 2')
+elif condition3:
+    print('Code for condition 3')
+elif condition4:
+    print('Code for condition 4')
 else:
-    print('Nenhuma condição foi satisfeita.')
+    print('No condition was satisfied.')
 
 if 10 == 10:
-    print('Outro if')
+    print('Another if')
 
-print('Fora do if')
+print('Outside the if')
