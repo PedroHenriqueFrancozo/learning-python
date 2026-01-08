@@ -1,10 +1,14 @@
+"""
+Topic: Conditionals (if, elif, else)
+Focus: Controlling the program flow based on user input.
+"""
+
 # if / elif      / else
 # se / se não se / se não
 entrada = input('Você quer "entrar" ou "sair"? ')
 
 if entrada == 'entrar':
     print('Você entrou no sistema')
-
     print(12341234)
 elif entrada == 'sair':
     print('Você saiu do sistema')
