@@ -24,5 +24,6 @@ In this class, I completed a practical exercise to integrate knowledge of string
 
 ---
 
+
 ### 💡 Insight:
 Este exercício mostra a importância da ordem das verificações. Ao testar primeiro `if nome and idade`, garantimos que o programa não tente acessar índices de uma string vazia (como `nome[0]`), o que causaria um erro de `IndexError`. A lógica de programação também envolve prevenir que o programa quebre com entradas inesperadas.
