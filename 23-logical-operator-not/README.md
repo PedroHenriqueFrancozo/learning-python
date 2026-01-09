@@ -21,7 +21,6 @@ In this class, I learned how the `not` operator works. It is used to invert the 
 | `bool('abc')` (Truthy) | `False` |
 
 
-
 [Image of logic gate not truth table]
 
 
