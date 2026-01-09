@@ -14,10 +14,10 @@ In this class, I learned how to check for the presence (or absence) of a text sn
 
 ### 🛠️ Exemplo de Indexação / Indexing Example:
 
-| O | t | á | v | i | o |
+| P | e | d | r | o | 
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| 0 | 1 | 2 | 3 | 4 | 5 |
-| -6 | -5 | -4 | -3 | -2 | -1 |
+| 0 | 1 | 2 | 3 | 4 | 
+| -6 | -5 | -4 | -3 | -2 |
 
 
 
@@ -25,5 +25,3 @@ In this class, I learned how to check for the presence (or absence) of a text sn
 
 ### 💡 Insight:
 Os operadores `in` e `not in` são o que chamamos de "Pythonic". Em outras linguagens, você precisaria usar funções complexas para encontrar uma substring. Em Python, a leitura é quase como ler um texto em inglês: `if "a" in "casa":` (Se "a" está em "casa"). Isso torna o código muito mais fácil de manter e entender.
-
-commit - feat: add operators in and not in with string indexing study
