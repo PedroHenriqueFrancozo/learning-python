@@ -1,4 +1,8 @@
 """
+
+Tópico: Exercício - Validador de CPF
+Foco: Lógica de programação e algoritmos de validação.
+
 Calculo do primeiro dígito do CPF
 CPF: 746.824.890-70
 Colete a soma dos 9 primeiros dígitos do CPF
